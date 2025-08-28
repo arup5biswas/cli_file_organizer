@@ -15,8 +15,8 @@ The primary purpose of this project is to demonstrate best practices in testing 
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-link>
-    cd <your-repo-name>
+    git clone https://github.com/arup5biswas/cli_file_organizer.git
+    cd cli_file_organizer
     ```
 2.  **Create a virtual environment and install dependencies:**
     ```bash
